@@ -1,0 +1,142 @@
+.box1{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.email{
+    display: block;
+}
+
+.survey{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.google{
+    width: 200px;
+    display: block;
+    margin-left: 500px;
+    margin-bottom: 10px;
+
+}
+
+.url{
+    width: 500px;font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 30px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-left: 320px;
+    margin-bottom: 50px;
+    display: block;
+
+}
+
+.First{
+    padding-left: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 16px;
+    width: 148px;
+    font-size: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    margin-bottom: 12px;
+}
+
+.mail{
+    width: 335px;
+    display: block;
+    padding-left: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 16px;
+    font-size: 15px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+    margin-bottom: 12px;
+
+}
+
+.sign{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    width: 370px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.request{
+font-size: 40px;
+font-family: arial;
+margin-bottom: 25px;
+}
+
+.pickup{
+background-color: rgb(240, 240, 240);
+font-family: arial;
+border: none;
+font-size: 16px;
+color: rgb(80, 80, 80);
+width: 380px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+margin-bottom: 10px;
+
+}
+
+.destination{
+background-color: rgb(240, 240, 240);
+display: block;
+font-family: arial;
+border: none;
+font-size: 16px;
+color: rgb(80, 80, 80);
+width: 380px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+margin-bottom: 30px;
+padding-right: 20px;
+}
+
+.Request{
+background-color: black;
+color: white;
+font-family: arial;
+font-size: 16px;
+border: none;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 25px;
+padding-right: 25px;
+margin-right: 20px;
+cursor: pointer;
+}
+
+.later{
+font-family: arial;
+background-color: rgb(240, 240, 240);
+border: none;
+padding-top: 15px;
+padding-bottom: 15px;
+padding-left: 25px;
+padding-right: 25px;
+font-size: 16px;
+cursor: pointer;
+}

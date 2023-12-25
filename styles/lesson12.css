@@ -1,0 +1,64 @@
+
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+.colorwidth{
+    background-color: lightblue;
+    width: 200px;
+}
+
+.colorwidth1{
+    background-color: lightpink;
+    width: 75px;
+}
+
+.flexbox2{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+}
+
+.item1{
+    background-color: lightblue;
+    width: 50px;
+}
+
+.item2{
+    background-color: lightpink;
+    flex: 1;
+}
+
+.item3{
+    background-color: lightblue;
+    width: 75px;
+}
+
+.flexbox3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.item4{
+    background-color: lightpink;
+}
+
+.flexbox4{
+    display: flex;
+    flex-direction: row;
+    border-width: 1px;
+    border-style: solid;
+    height: 50px;
+    border-color: rgb(150, 150, 150);
+    justify-content: space-between;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+.it1{
+    background-color: lightpink;
+}

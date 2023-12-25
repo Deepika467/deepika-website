@@ -1,0 +1,18 @@
+.model{
+    font-family: montserrat;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.order{
+    font-family: montserrat;
+    text-align: center;
+}
+
+.touchless{
+    text-decoration: underline;
+    font-family: montserrat;
+    
+}

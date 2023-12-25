@@ -1,0 +1,206 @@
+
+.uber1{
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    margin-bottom: 10px;
+    
+}
+
+.uber1:hover{
+    opacity: 0.9;
+}
+
+.amazon1{
+    background-color: rgb(255, 216, 20) ;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.amazon1:hover{
+    background-color: rgb(245, 205, 3);
+}
+
+.github1{
+    background-color: rgb(46, 216, 79);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: box-shadow 0.15s;
+    
+}
+
+.github1:hover{
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.15);
+}
+
+.bootstrap2{
+background-color: rgb(121, 82, 179);
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 6px;
+    font-weight: bold;
+    transition: background-color 0.15s;
+    vertical-align: top;
+}
+
+.bootstrap2:hover{
+background-color: rgb(99, 60, 156);
+}
+
+
+.bootstrap3{
+background-color: white;
+    color: rgb(108, 117,125);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-color: rgb(108, 117,125);
+    border-width: 1px;
+    border-style: solid;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    transition: background-color 0.15s,
+    color 0.15s;
+    vertical-align: top;
+}
+
+.bootstrap3:hover{
+background-color: rgb(108, 117,125);
+color: white;
+}
+
+
+
+.linkedin2{
+background-color: rgb(10, 102, 194);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+    vertical-align: top;
+}
+
+.linkedin2:hover{
+background-color: rgb(2,70,138);
+}
+
+.linkedin3{
+background-color: white;
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    font-size: 15px;
+    border-width: 1px;
+    border-radius: 20px;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+     padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+    border-width 0.15s;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+
+.linkedin3:hover{
+background-color: rgb(226,240,254);
+border-width: 2px;
+}
+
+.link{
+color: rgb(0, 113, 133);
+}
+
+.link:hover{
+color: red;
+}
+
+.nike1{
+font-weight: bold;
+font-size: 25px;
+}
+
+.amount1{
+color: rgb(0,118,0);
+font-weight: bold;
+}
+
+.cart1{
+background-color: rgb(249,217,76);
+border: none;
+border-radius: 20px;
+padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+margin-right: 8px;
+cursor: pointer;
+}
+
+.cart1:hover{
+background-color: rgb(247,202,0);
+}
+
+.cart1:active{
+opacity: 0.15;
+}
+
+.buy1{
+background-color: rgb(247,202,0);
+border: none;
+border-radius: 20px;
+padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+cursor: pointer;
+}
+
+.buy1:hover{
+background-color: rgb(250,137,0);
+}
+
+.buy1:active{
+opacity: 0.5;
+}

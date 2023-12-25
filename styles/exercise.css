@@ -1,0 +1,119 @@
+.uber{
+    background-color: black;
+    color: white;
+    height: 40px; 
+    width: 110px;
+    border: none;
+    cursor: pointer;
+}
+
+.amazon{
+    background-color: rgb(255, 216, 20);
+    color: black;
+    height: 30px; 
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.Github{
+    background-color: rgb(46, 216, 79);
+    color: white;
+    height: 30px; 
+    width: 90px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.bootstrap{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    height: 30px; 
+    width: 110px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 7px;
+}
+
+.bootstrap1{
+    background-color: white;
+    color: rgb(108, 117,125);
+    height: 30px; 
+    width: 90px;
+    border-color: rgb(108, 117,125);
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    border-style: solid;
+}
+
+.linkedin{
+background-color: rgb(10, 102, 194);
+    color: white;
+    height: 40px;
+    width: 240px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 8px;
+
+}
+
+.linkedin1{
+background-color: white;
+    color: rgb(10, 102, 194);
+    height: 40px; 
+    width: 80px;
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+}
+
+
+.amazon1{
+color: rgb(0, 113, 133);
+}
+
+.nike{
+font-weight: bold;
+font-size: 25px;
+}
+
+.amount{
+color: rgb(0,118,0);
+font-weight: bold;
+}
+
+.cart{
+background: rgb(255,216,20);
+border: none;
+border-radius: 15px;
+height: 30px;
+width: 100px;
+cursor: pointer;
+margin-right: 8px
+}
+
+.buy{
+background: rgb(255,164,28);
+border: none;
+border-radius: 15px;
+height: 30px;
+width: 100px;
+cursor: pointer;
+margin-right: 8px
+}
